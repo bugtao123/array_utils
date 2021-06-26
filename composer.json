@@ -1,0 +1,19 @@
+{
+    "name": "bugtao/array_utils",
+    "description": "php array",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "giggs",
+            "email": "1277886091@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ArrayUtils\\": "src"
+        }
+    }
+}
