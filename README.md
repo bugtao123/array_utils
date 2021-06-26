@@ -20,5 +20,5 @@ use ArrayUtils\Main
      * @param string $prefix 返回前缀默认‘-’
      * @return array|mixed
      */
-    Main::getList($tree, $child = 'children', $prefix = "-")
+    Main::getList($tree, 'children', "-")
 ~~~~
