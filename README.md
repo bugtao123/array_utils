@@ -1,4 +1,5 @@
 # array_utils
+**composer require bugtao/array_utils**
 ~~~~
 use ArrayUtils\Main
 
